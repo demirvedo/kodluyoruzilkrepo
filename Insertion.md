@@ -12,7 +12,8 @@
 
 ##### 2) O(n²)
 
-##### 3) 1 - Average case : O(n²)
+##### 3) 
+         1 - Average case : O(n²)
          2 - Worst case   : O(n²)
          3 - Best case    : O(n)
         
